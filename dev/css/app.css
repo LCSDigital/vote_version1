@@ -1,0 +1,889 @@
+*{
+	margin:  0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 1em;
+}
+
+a{
+	text-decoration: none;
+	display: inline-block;
+	color: inherit;
+}
+/**********************************************************************************
+page principale à 1400px;;
+**********************************************************************************/
+.title {
+	text-transform: uppercase;
+	font-size: 1.6em;
+	font-family: "DIN-bold", arial,sans-serif;
+	height: auto;
+	padding: 3%;
+}
+
+
+.lazyload,
+.lazyloading {
+	opacity: 0;
+}
+.lazyloaded {
+	opacity: 1;
+	transition: opacity 300ms;
+}
+
+
+.bloc-header {
+	background: #f7f7f7;
+	border-bottom: 1px solid #e6ebef;
+}
+.bloc-header .bloc-logo {
+	max-width: 180px;
+}
+.header-shortcut {
+	margin-top: 20px;
+}
+.bloc{
+    text-align: center;
+	display: table;
+	width: 100%;
+}
+.bloc .titre-bloc_1{
+	text-transform: uppercase;
+	display: block;
+	font-family: "DIN-medium",arial, sans-serif;
+	font-size: 1.4em;
+	display: block;
+	margin-bottom: 20px;
+	letter-spacing: 0.075em;
+}
+.sous_titre_2 {
+	margin-top: 20px;
+	display: block;
+	font-size: 2.4em;
+	line-height: 1.2;
+	font-family: "DIN-bold",arial, sans-serif;
+	letter-spacing: 0.075em;
+	text-transform: uppercase;
+}
+
+.titre_header {
+	display: block;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-family: "DIN-bold",arial, sans-serif;
+}
+
+.bloc:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+.bloc .image1 {
+	width: 50%;
+	display: table-cell;
+	vertical-align: middle;
+
+}
+
+.bloc .image1 img{
+	min-width: 200px;
+	max-width: 50%;
+}
+.bloc .image2 img{
+	max-width: 100%;
+}
+
+
+.bloc .image2 {
+	width: 50%;
+	display: table-cell;
+	vertical-align: middle;
+}
+/*.bloc img {
+	max-width: 100%;
+}*/
+.bloc p {
+	font-family: "UniversLTW01-57Condense 723821",sans-serif;
+	font-size: 1.6em;
+	max-width: 480px;
+	margin: auto;
+}
+
+
+.fond {
+	background-color:  #001832;
+	color: #ffffff;
+	padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: "DIN-bold",arial, sans-serif;
+}
+.bouton_header{
+	background-color: #ffffff;
+    color: #001832;
+    border: none;
+    text-transform: uppercase;
+    font-family: "UniversLTW01-57Condense 723821", arial,sans-serif;
+    padding: 0 20px;
+    font-size: 1.2em;
+    line-height: 40px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+
+.nb-bloc{
+	display: block;
+	font-size: 3em;
+    font-family: "DIN-bold",arial, sans-serif;
+}
+
+.bloc_pad {
+	padding: 3%;
+}
+
+
+.bloc .bloc2 img {
+	width: 100%;
+	display: table-cell;
+}
+.titre_header p {
+	font-family: "DIN-medium",arial, sans-serif;
+}
+
+.vote-planning {
+	text-align: center;
+}
+.vote-planning ol {
+	margin: 0;
+}
+.vote-category {
+	float: left;
+	width: 33.33%;
+	padding: 42px 3%;
+	font-family: "DIN-medium",sans-serif;
+	text-transform: uppercase;
+	position: relative;
+}
+.vote-category.current {
+	box-shadow: 0 0 20px rgba(0,0,0,0.15) inset;
+	background: rgba(0, 24, 50, 0.05);
+}
+.vote-category.current:after {
+	content: "";
+	border-top: 10px solid #001832;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.vote-category h2 {
+	font-size: 1em;
+	margin: 0;
+}
+.vote-category-label {
+	display: block;
+	font-size: 1.2em;
+	line-height: 1.5;
+	margin-bottom: 10px;
+}
+.vote-category-name {
+	display: block;
+	font-family: "DIN-bold",sans-serif;
+	font-size: 1.8em;
+	margin-bottom: 10px;
+}
+.vote-category-date {
+	font-size: 1.2em;
+	color: #777;
+}
+
+.navigation {
+    border-top: solid 1px #e6ebef;
+}
+
+.navigation-item{
+	float: left;
+	padding: 20px 3%;
+	font-family:"UniversLTW01-57Condense 723821", arial,sans-serif;
+	font-size:1.2em;
+	text-transform: uppercase;
+	line-height: 40px; 
+	border-left: solid 1px #e6ebef;
+}
+
+.navigation:after{
+	display: block;
+	content: '';
+	clear: both;
+}
+
+.pagination{
+	margin: 0;
+	border-radius: 0px;
+}
+
+.pagination-btn{
+	padding: 0 10px;
+}
+.pagination .btn-prev:before {
+	content: '';
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+	border-top: solid 1px rgb(0,0,0,0.5);
+	border-left: solid 1px rgb(0,0,0,0.5);
+	transform: rotate(-45deg) translateX(-8px);
+}
+
+.pagination .gotonext:after {
+	content: '';
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+	border-top:solid 1px rgb(0,0,0,0.5);
+	border-left: solid 1px rgb(0,0,0,0.5);
+	transform: rotate(135deg) translateX(8px);
+}
+
+.off {
+	display: none;
+}
+.pagination li {
+	display: inline-block;
+}
+.pagination li a.current {
+	text-decoration: none;
+}
+
+
+.rechercher {
+	float: right;
+}
+
+.rechercher #form_to_search input[type=text] {
+	margin-bottom: 0px;
+    width: 200px;
+    line-height: 40px;
+    padding: 3%;
+    vertical-align: middle;
+}
+.tosearch-bouton-rechercher {
+	width: 130px;
+}
+
+.cursor-tri-pagination{
+	height: 40px;
+    cursor: pointer;
+    padding: 0 10px;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+
+
+.items-container {
+	min-height: 25vw;
+}
+
+.items-container::after{	
+	content: '';
+	display: block;
+	clear: both;
+}
+
+
+
+.item {
+	box-sizing: border-box;
+	width: 25%;
+	padding:3%;
+	float: left;
+	list-style: none;
+	border-top: solid 1px #e6ebef;
+	border-left: solid 1px #e6ebef;
+}
+
+.items {
+	margin-bottom: 0;
+}
+
+.item-pict-dos {
+	display: none;
+}
+
+.picture:hover .item-pict-dos{
+	display: block;
+}
+
+.item.off {
+	display: none;
+}
+
+
+.picture{
+	position: relative;
+	padding-bottom: 100%;
+	width: 100%;
+}
+
+.item-pict{
+	position: absolute;
+	top: 0;
+	left: 0;
+	max-width: 100%;
+}
+
+.item-pict-logo {
+	display: inline-block;
+	width: 48px;
+	line-height: 1;
+	position: absolute;
+	top: 0px;
+	right: 10px;
+}
+
+
+.item-link {
+	display: block;
+}
+
+.item-like {
+	display: block;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+
+.icon-vote{
+	display: inline-block;
+}
+.icon-vote:after {
+	content: url(../images/svg/vote.svg);
+    width: 26px;
+    height: 26px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.icon-option:after {
+	content: url(../images/svg/option.svg);
+    width: 26px;
+    height: 26px;
+    display: inline-block;
+    vertical-align: middle;
+    opacity: 0.5;   
+}
+
+.item-like-option{
+	float: right;
+}
+
+
+.nblike{
+	margin-left: 10px;
+	font-size:1.8em;
+	font-family: "UniversLTW01-67BoldCn", arial, sans-serif;
+	line-height: 26px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+
+
+.item-nom-ville{
+	min-height: 106px;
+	font-size: 1.6em;
+	line-height: 1;
+}
+.item-name{
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	font-family: "DIN-bold", arial, sans-serif;
+}
+
+
+.item-city{
+	text-transform: capitalize;
+	font-family: "UniversLTW01-57Condense 723821", arial,sans-serif;
+	color: #7a7a7a;
+}
+
+#form_to_vote{
+	display: block;
+	content: '';
+	clear: both;
+}
+
+.popin-content {
+	float: left;
+	width: 50%;
+	
+}
+
+.popin-action {
+    width: 50%;
+    float: left;
+}
+
+.popin-content .form-maillot-img img{
+	max-width: 100%;
+}
+
+
+.popin-action-email-vote-partage {
+	width: 250px;
+	height: 30px;
+	margin-bottom: 20px;
+	margin-top: 4px;
+	border: solid 1px #b9b9b9;
+	padding: 3%;
+}
+
+.checkbox-age {
+	display: none;
+}
+
+.titre-social-media {
+	display: block;
+	margin-top: 10px;
+}
+
+
+.popin-title{
+	font-family: "DIN-bold", arial,sans-serif;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    padding: 3%;
+}
+
+.popin-action-checkbox{
+	margin-bottom: 20px;
+}
+
+
+.information-popin-vote-partage{
+	display: inline-block;
+    height: auto;
+    font-size: 1em;
+    text-align: justify;
+    color: #9b9b9b;
+    margin-top: 10px;
+}
+
+#social-media {
+    font-size: 1.6em;
+    font-family: "DIN-regular",arial,sans-serif;
+}
+
+.popin-label-partage-vote {
+	font-size: 1.8em;
+	font-family: "DIN-regular", arial, sans-serif;
+	margin-bottom: 10px;
+	color: #9b9b9b;
+}
+.logo-social {
+	width: auto;
+	height: 27px;
+	margin-top: 10px;
+}
+
+/***************
+autocomplete
+****************/
+.ui-menu {
+	background-color: #ffffff;
+	overflow-y: scroll;
+	max-height: 200px;
+	scroll-behavior: smooth;
+	width: 330px !important;
+	padding-left: 1%;
+	border: solid 1px #e6ebef;
+	line-height: 24px;
+}
+.ui-menu-item:hover{
+	background-color: #e6ebef;
+	cursor: pointer;
+}
+
+.erreur_items_vide {
+	font-size:1.2em;
+	font-family:  "DIN-bold", arial, sans-serif;
+	text-align: center;
+	color: #001832;
+	padding-top: 3%;
+}
+
+/****************************************************************************************************
+Article
+****************************************************************************************************/
+.article:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+
+.article-item-right{
+	display: table-cell;
+	width: 50%;
+	padding: 3%;
+	vertical-align: middle;
+}
+
+.article-item-gauche{
+	display: table-cell;
+	width: 50%;
+	padding: 3%;
+}
+
+.article-picture{
+	position: relative;
+	padding-bottom: 100%;
+	width: 100%;
+
+}
+
+.article-item-pict{
+	position: absolute;
+	top: 0;
+	left: 0;
+	max-width: 100%;
+}
+
+.article-item-pict-dos{
+	display: none;
+}
+
+.article-item:hover .article-item-pict-dos{
+	display: block;
+}
+
+
+.article-item-pict-logo img{
+    width: 10%;
+    height: auto;
+    line-height: 1;
+    margin-bottom: 35px;
+}
+.article-item-name-nom{
+	min-height: 106px;  
+}
+.article-item-name-nomclub{
+	font-size: 2.4em;
+    line-height: 1;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-family: "DIN-bold", arial, sans-serif;
+}
+
+.article-item-city-nomclub{
+	font-size: 1.6em;
+    line-height: 1;
+    text-transform: capitalize;
+    font-family: "UniversLTW01-57Condense 723821", arial,sans-serif;
+    color: #7a7a7a;
+}
+.template-article .order, .template-article .pagination, .template-article .rechercher, .template-article .nb-items {
+	display: none;
+}
+
+
+.template-article .nb-items {
+	width: 100%;
+	border-bottom: solid 1px #e6ebef;
+}
+
+
+
+.template-article .lien-vers-maillots:before {
+	content: '';
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+	border-top:solid 1px #000000;
+	border-left: solid 1px #000000;
+	transform: rotate(-45deg)translateX(-8px);
+}
+
+
+.article-nblike {
+	margin-left: 10px;
+    font-size: 1.8em;
+    font-family: "UniversLTW01-67BoldCn", arial, sans-serif;
+    line-height: 26px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.article-icon-vote:after{
+	content: url(../images/svg/vote.svg);
+    width: 26px;
+    height: 26px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.article-item-like-bouton{
+	display: block;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.article-option{
+	float: right;
+}
+
+.article-button{
+  	background-color: #001832;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+    font-family: "UniversLTW01-57Condense 723821", arial,sans-serif;
+    text-align: center;
+    padding: 0 12%;
+    font-size: 1.2em;
+    line-height: 40px;
+}
+
+.article-information-maillot-like{
+	display: table;
+	width: 1400px;
+	margin: auto;
+	max-width: 100%;
+}
+
+.article-information-maillot-like:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+
+.conteneur-lien-vers-maillots{
+   	padding: 20px 3%;
+    font-family: "UniversLTW01-57Condense 723821", arial,sans-serif;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    line-height: 40px;
+    border-top: solid 1px #e6ebef;
+}
+
+.erreur_log{
+	font-family: "UniversLTW01-57Condense 723821", arial,sans-serif;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.button-search-vote{
+	height: 40px;
+	text-align: center;
+}
+
+.button-hover-vote{
+	display: none;
+}
+
+.item:hover .button-hover-vote{
+	display: block;
+}
+
+.button-vote{
+	background-color: #001832;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+    font-family: "UniversLTW01-57Condense 723821", arial,sans-serif;
+    padding: 0 20px;
+    font-size: 1.2em;
+    line-height: 40px;
+    vertical-align: middle;
+
+}
+
+
+/*********************************************************************************************
+Responsive largeur inférieure ou égale à 900
+*********************************************************************************************/
+@media screen and (max-width: 900px) {
+	.bloc .image1 {
+	    width: 100%;
+	    display: block;
+	    vertical-align: middle;
+	    padding: 10%;
+	}
+	.bloc .bloc2 img {
+	    width: 100%;
+	    display: block;
+	}
+	.bloc .image2 {
+	    width: 100%;
+	    display: block;
+	}
+
+	.bloc .bloc2 .bloc2-none{
+	display: none;
+	}
+
+	img.bloc-logo {
+		max-width: 160px;
+	}
+	.bloc .titre-bloc_1 {
+		font-size: 1.4em;
+	}
+	.sous_titre_2 {
+		font-size: 2em;
+	}
+	
+	.bloc_pad {
+		width: 100%;
+	}
+	.conteneur-lien-vers-maillots {
+    padding: 20px 10%;
+    font-family: "UniversLTW01-57Condense 723821", arial,sans-serif;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    line-height: 40px;
+    border-bottom: solid 1px #e6ebef;
+	}
+
+	.item {
+		box-sizing: border-box;
+		width: 50%;
+		padding:3% 10%;
+		float: left;
+		list-style: none;
+		border-top: solid 1px #e6ebef;
+		border-left: solid 1px #e6ebef;
+
+	}
+
+	.title{
+		font-size: 1.2em;
+	    padding: 3% 10%;
+	}
+
+	.nb-items {
+		padding-left: 10%;
+
+	}
+
+	.rechercher{
+		float: left;
+	    width: 100%;
+	    padding-left: 10%;
+	    padding-right: 10%;
+	    border-bottom: solid 1px #e6ebef;
+	}
+
+
+	.rechercher #form_to_search input[type=text] {
+	    padding: 0px; 
+	    width: calc(100% - 135px);
+	    padding-left: 3%;
+	    font-size: 1.2em; 
+	    font-family: "UniversLTW01-57Condense 723821", arial, sans-serif; 
+	}
+
+	.tosearch-bouton-rechercher {
+	    vertical-align: middle;
+	}
+
+	.item-pict-dos {
+		display: none;
+	}
+
+	.item-link .picture:hover .item-pict-dos{
+		display: block;
+	}
+
+	.article-information-maillot-like {
+	    display: table;
+	    width: 100%;
+	    margin: auto;
+	}
+
+	
+	
+	.popin-content {
+		width: 100%;
+		display: block;
+	}
+
+	.popin-action {
+		width: 100%;
+	}
+
+	.ui-menu {
+		width: 80% !important;
+	}
+}
+
+/*********************************************************************************************
+Responsive largeur inférieure ou égale à 480
+*********************************************************************************************/
+@media screen and (max-width: 480px) {
+
+	.vote-category-label,
+	.vote-category-date {
+		font-size: 1em
+	}
+	.vote-category-name {
+		font-size: 1.2em;
+	}
+
+	.item {
+		box-sizing: border-box;
+		width: 100%;
+		padding:3% 10%;
+		float: left;
+		list-style: none;
+		border-top: solid 1px #e6ebef;
+		border-left: solid 1px #e6ebef;
+
+	}
+
+	.navigation-item {
+	    float: left;
+	    padding: 20px 10%;
+	    font-family: "UniversLTW01-57Condense 723821", arial,sans-serif;
+	    font-size: 1.2em;
+	    text-transform: uppercase;
+	    line-height: 40px;
+	    border-left: solid 1px #e6ebef;
+	}
+
+	.conteneur-lien-vers-maillots {
+    	padding: 20px 10%;
+	}
+
+	.article-information-maillot-like {
+	    display: block;
+	    position: relative;
+	    margin: auto;
+	}
+	.article-item-pict-logo img {
+	    width: 10%;
+	    height: auto;
+	    line-height: 1;
+	    margin-bottom: 35px;
+	    position: absolute;
+	    top: 3%;
+	    right: 10%;
+	}
+	.article-item-right {
+	    display: block;
+	    width: 100%;
+	    padding: 3% 10%;
+	    vertical-align: middle;
+	}
+
+	.article-item-gauche {
+	    display: block;
+	    width: 100%;
+	    padding: 3%;
+	}
+}

@@ -1,0 +1,691 @@
+{
+    "434548-4922A-1821701-90130023": {
+        "maillotID": "434548-4922A-1821701-90130023",
+        "imageMaillot": "images/maillots/434548-4922A-1821701-90130023_maillot.jpg",
+        "imageLogo": "images/logos/434548-4922A-1821701-90130023_logo.png",
+        "intitule": "OBJAT - U S OBJATOISE",
+        "nomClub": "u s objatoise",
+        "ville": "objat",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "11086-6515G-1821701-90204721": {
+        "maillotID": "11086-6515G-1821701-90204721",
+        "imageMaillot": "images/maillots/11086-6515G-1821701-90204721_maillot.jpg",
+        "imageLogo": "images/logos/11086-6515G-1821701-90204721_logo.png",
+        "intitule": "LA GRAND CROIX - R C PAYS DU GIER",
+        "nomClub": "r c pays du gier",
+        "ville": "la grand croix",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "11034-4015P-1821701-9022029E": {
+        "maillotID": "11034-4015P-1821701-9022029E",
+        "imageMaillot": "images/maillots/11034-4015P-1821701-9022029E_maillot.jpg",
+        "imageLogo": "images/logos/11034-4015P-1821701-9022029E_logo.png",
+        "intitule": "CHABEUIL - RUGBY CLUB CHABEUILLOIS",
+        "nomClub": "rugby club chabeuillois",
+        "ville": "chabeuil",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "10823-6035K-1821701-81206335": {
+        "maillotID": "10823-6035K-1821701-81206335",
+        "imageMaillot": "images/maillots/10823-6035K-1821701-81206335_maillot.jpg",
+        "imageLogo": "images/logos/10823-6035K-1821701-81206335_logo.png",
+        "intitule": "BRIVES CHARENSAC - R C XV BRIVES CHARENSAC",
+        "nomClub": "r c xv brives charensac",
+        "ville": "brives charensac",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "11042-4190E-1821701-90212526": {
+        "maillotID": "11042-4190E-1821701-90212526",
+        "imageMaillot": "images/maillots/11042-4190E-1821701-90212526_maillot.jpg",
+        "imageLogo": "images/logos/11042-4190E-1821701-90212526_logo.png",
+        "intitule": "Laval - R C LAVALLOIS",
+        "nomClub": "r c lavallois",
+        "ville": "laval",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "10954-5514U-1821701-9010756E": {
+        "maillotID": "10954-5514U-1821701-9010756E",
+        "imageMaillot": "images/maillots/10954-5514U-1821701-9010756E_maillot.jpg",
+        "imageLogo": "images/logos/10954-5514U-1821701-9010756E_logo.png",
+        "intitule": "VIELMUR - U S VIELMUROISE",
+        "nomClub": "u s vielmuroise",
+        "ville": "vielmur",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "11135-5197Z-1821701-81217903": {
+        "maillotID": "11135-5197Z-1821701-81217903",
+        "imageMaillot": "images/maillots/11135-5197Z-1821701-81217903_maillot.jpg",
+        "imageLogo": "images/logos/11135-5197Z-1821701-81217903_logo.png",
+        "intitule": "NONTRON - C S NONTRONNAIS",
+        "nomClub": "c s nontronnais",
+        "ville": "nontron",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1721-7450K-1821701-90320760": {
+        "maillotID": "1721-7450K-1821701-90320760",
+        "imageMaillot": "images/maillots/1721-7450K-1821701-90320760_maillot.jpg",
+        "imageLogo": "images/logos/1721-7450K-1821701-90320760_logo.png",
+        "intitule": "ANIANE - ECOLE DE RUGBY DES GORGES D HERAULT",
+        "nomClub": "ecole de rugby des gorges d herault",
+        "ville": "aniane",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "11044-7452M-1821701-8112901E": {
+        "maillotID": "11044-7452M-1821701-8112901E",
+        "imageMaillot": "images/maillots/11044-7452M-1821701-8112901E_maillot.jpg",
+        "imageLogo": "images/logos/11044-7452M-1821701-8112901E_logo.png",
+        "intitule": "CERGY - RACING CLUB DE L AGGLOMERATION CERGY PONTOISE",
+        "nomClub": "racing club de l agglomeration cergy pontoise",
+        "ville": "cergy",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1737-4379K-1821701-90130FA4": {
+        "maillotID": "1737-4379K-1821701-90130FA4",
+        "imageMaillot": "images/maillots/1737-4379K-1821701-90130FA4_maillot.jpg",
+        "imageLogo": "images/logos/1737-4379K-1821701-90130FA4_logo.png",
+        "intitule": "FOURAS - FOURAS OLYMPIQUE CLUB",
+        "nomClub": "fouras olympique club",
+        "ville": "fouras",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1895-7361S-1821701-9021377E": {
+        "maillotID": "1895-7361S-1821701-9021377E",
+        "imageMaillot": "images/maillots/1895-7361S-1821701-9021377E_maillot.jpg",
+        "imageLogo": "images/logos/1895-7361S-1821701-9021377E_logo.png",
+        "intitule": "MANDELIEU - LERINS RUGBY CLUB",
+        "nomClub": "lerins rugby club",
+        "ville": "mandelieu",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1867-4543N-1821701-9030109B": {
+        "maillotID": "1867-4543N-1821701-9030109B",
+        "imageMaillot": "images/maillots/1867-4543N-1821701-9030109B_maillot.jpg",
+        "imageLogo": "images/logos/1867-4543N-1821701-9030109B_logo.png",
+        "intitule": "RETHEL - RETHEL S RUGBY XV",
+        "nomClub": "rethel s rugby xv",
+        "ville": "rethel",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1670-6772L-1821701-90402E90": {
+        "maillotID": "1670-6772L-1821701-90402E90",
+        "imageMaillot": "images/maillots/1670-6772L-1821701-90402E90_maillot.jpg",
+        "imageLogo": "images/logos/1670-6772L-1821701-90402E90_logo.png",
+        "intitule": "GUENROUET - R C GRACE GUENROUET",
+        "nomClub": "r c grace guenrouet",
+        "ville": "guenrouet",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "10590-6998G-1821701-90322C26": {
+        "maillotID": "10590-6998G-1821701-90322C26",
+        "imageMaillot": "images/maillots/10590-6998G-1821701-90322C26_maillot.jpg",
+        "imageLogo": "images/logos/10590-6998G-1821701-90322C26_logo.png",
+        "intitule": "CLISSON - SPORT ATLH CLUB CLISSONNAIS",
+        "nomClub": "sport atlh club clissonnais",
+        "ville": "clisson",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1832-6723H-1821701-9011144F": {
+        "maillotID": "1832-6723H-1821701-9011144F",
+        "imageMaillot": "images/maillots/1832-6723H-1821701-9011144F_maillot.jpg",
+        "imageLogo": "images/logos/1832-6723H-1821701-9011144F_logo.png",
+        "intitule": "CHOMERAC - S C OUVEZE PAYRE",
+        "nomClub": "s c ouveze payre",
+        "ville": "chomerac",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1952-4112V-1821701-90228282": {
+        "maillotID": "1952-4112V-1821701-90228282",
+        "imageMaillot": "images/maillots/1952-4112V-1821701-90228282_maillot.jpg",
+        "imageLogo": "images/logos/1952-4112V-1821701-90228282_logo.png",
+        "intitule": "PONT A MOUSSON - R C PONT A MOUSSON",
+        "nomClub": "r c pont a mousson",
+        "ville": "pont a mousson",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1919-5329T-1821701-81207405": {
+        "maillotID": "1919-5329T-1821701-81207405",
+        "imageMaillot": "images/maillots/1919-5329T-1821701-81207405_maillot.jpg",
+        "imageLogo": "images/logos/1919-5329T-1821701-81207405_logo.png",
+        "intitule": "LAVAUR CEDEX - ASV LAVAUR",
+        "nomClub": "asv lavaur",
+        "ville": "lavaur cedex",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1895-7605W-1821701-90128A13": {
+        "maillotID": "1895-7605W-1821701-90128A13",
+        "imageMaillot": "images/maillots/1895-7605W-1821701-90128A13_maillot.jpg",
+        "imageLogo": "images/logos/1895-7605W-1821701-90128A13_logo.png",
+        "intitule": "POUEMBOUT - CREVETTES MUSCLEES NORD RUGBY",
+        "nomClub": "crevettes musclees nord rugby",
+        "ville": "pouembout",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1895-5450Z-1821701-901301C9": {
+        "maillotID": "1895-5450Z-1821701-901301C9",
+        "imageMaillot": "images/maillots/1895-5450Z-1821701-901301C9_maillot.jpg",
+        "imageLogo": "images/logos/1895-5450Z-1821701-901301C9_logo.png",
+        "intitule": "Fort-de-France - S S GOOD LUCK FORT DE FRANCE",
+        "nomClub": "s s good luck fort de france",
+        "ville": "fort-de-france",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "11044-4768H-1821701-81126CE5": {
+        "maillotID": "11044-4768H-1821701-81126CE5",
+        "imageMaillot": "images/maillots/11044-4768H-1821701-81126CE5_maillot.jpg",
+        "imageLogo": "images/logos/11044-4768H-1821701-81126CE5_logo.png",
+        "intitule": "SAINT DENIS - ST DENIS U S",
+        "nomClub": "st denis u s",
+        "ville": "saint denis",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1903-5400V-1821705-81217F51": {
+        "maillotID": "1903-5400V-1821705-81217F51",
+        "imageMaillot": "images/maillots/1903-5400V-1821705-81217F51_maillot.jpg",
+        "imageLogo": "images/logos/1903-5400V-1821705-81217F51_logo.png",
+        "intitule": "VALENCE D'AGEN - AVENIR VALENCIEN",
+        "nomClub": "avenir valencien",
+        "ville": "valence d'agen",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1903-5342G-1821705-81217E11": {
+        "maillotID": "1903-5342G-1821705-81217E11",
+        "imageMaillot": "images/maillots/1903-5342G-1821705-81217E11_maillot.jpg",
+        "imageLogo": "images/logos/1903-5342G-1821705-81217E11_logo.png",
+        "intitule": "MONTECH - COQUELICOTS MONTECHOIS RUGBY",
+        "nomClub": "coquelicots montechois rugby",
+        "ville": "montech",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1877-6552X-1821701-812297ED": {
+        "maillotID": "1877-6552X-1821701-812297ED",
+        "imageMaillot": "images/maillots/1877-6552X-1821701-812297ED_maillot.jpg",
+        "imageLogo": "images/logos/1877-6552X-1821701-812297ED_logo.png",
+        "intitule": "BAILLEUL - XV BAILLEULOIS",
+        "nomClub": "xv bailleulois",
+        "ville": "bailleul",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1903-5334Y-1821701-903017C0": {
+        "maillotID": "1903-5334Y-1821701-903017C0",
+        "imageMaillot": "images/maillots/1903-5334Y-1821701-903017C0_maillot.jpg",
+        "imageLogo": "images/logos/1903-5334Y-1821701-903017C0_logo.png",
+        "intitule": "MAZAMET - S C MAZAMET",
+        "nomClub": "s c mazamet",
+        "ville": "mazamet",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1802-4169G-1821701-81009EBD": {
+        "maillotID": "1802-4169G-1821701-81009EBD",
+        "imageMaillot": "images/maillots/1802-4169G-1821701-81009EBD_maillot.jpg",
+        "imageLogo": "images/logos/1802-4169G-1821701-81009EBD_logo.png",
+        "intitule": "PLAISANCE DU GERS - U S PLAISANTINE",
+        "nomClub": "u s plaisantine",
+        "ville": "plaisance du gers",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1901-5023K-1821701-812135C0": {
+        "maillotID": "1901-5023K-1821701-812135C0",
+        "imageMaillot": "images/maillots/1901-5023K-1821701-812135C0_maillot.jpg",
+        "imageLogo": "images/logos/1901-5023K-1821701-812135C0_logo.png",
+        "intitule": "LYON - LYON OL U",
+        "nomClub": "lyon ol u",
+        "ville": "lyon",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1958-5729C-1821701-90211BB4": {
+        "maillotID": "1958-5729C-1821701-90211BB4",
+        "imageMaillot": "images/maillots/1958-5729C-1821701-90211BB4_maillot.jpg",
+        "imageLogo": "images/logos/1958-5729C-1821701-90211BB4_logo.png",
+        "intitule": "LAMASTRE - R C LAMASTROIS",
+        "nomClub": "r c lamastrois",
+        "ville": "lamastre",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "10669-5080X-1821701-90117EA7": {
+        "maillotID": "10669-5080X-1821701-90117EA7",
+        "imageMaillot": "images/maillots/10669-5080X-1821701-90117EA7_maillot.jpg",
+        "imageLogo": "images/logos/10669-5080X-1821701-90117EA7_logo.png",
+        "intitule": "CHERBOURG-EN-COTENTIN - R C CHERBOURG HAGUE",
+        "nomClub": "r c cherbourg hague",
+        "ville": "cherbourg-en-cotentin",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "2008-7460V-1821705-903050D7": {
+        "maillotID": "2008-7460V-1821705-903050D7",
+        "imageMaillot": "images/maillots/2008-7460V-1821705-903050D7_maillot.jpg",
+        "imageLogo": "images/logos/2008-7460V-1821705-903050D7_logo.png",
+        "intitule": "SAINT LEU - LEU RUGBY CLUB",
+        "nomClub": "leu rugby club",
+        "ville": "saint leu",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "11157-6219K-1821701-901286C3": {
+        "maillotID": "11157-6219K-1821701-901286C3",
+        "imageMaillot": "images/maillots/11157-6219K-1821701-901286C3_maillot.jpg",
+        "imageLogo": "images/logos/11157-6219K-1821701-901286C3_logo.png",
+        "intitule": "POUILL\u00c9 - U S CHAUVINOISE RUGBY",
+        "nomClub": "u s chauvinoise rugby",
+        "ville": "pouill\u00c9",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1802-4155S-1821701-90226771": {
+        "maillotID": "1802-4155S-1821701-90226771",
+        "imageMaillot": "images/maillots/1802-4155S-1821701-90226771_maillot.jpg",
+        "imageLogo": "images/logos/1802-4155S-1821701-90226771_logo.png",
+        "intitule": "SAMATAN - LOMBEZ SAMATAN CLUB",
+        "nomClub": "lombez samatan club",
+        "ville": "samatan",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1667-7437W-1821701-90227B2D": {
+        "maillotID": "1667-7437W-1821701-90227B2D",
+        "imageMaillot": "images/maillots/1667-7437W-1821701-90227B2D_maillot.jpg",
+        "imageLogo": "images/logos/1667-7437W-1821701-90227B2D_logo.png",
+        "intitule": "R C PONDINOIS",
+        "nomClub": "r c pondinois",
+        "ville": "r c pondinois",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1740-6025Z-1821701-90117966": {
+        "maillotID": "1740-6025Z-1821701-90117966",
+        "imageMaillot": "images/maillots/1740-6025Z-1821701-90117966_maillot.jpg",
+        "imageLogo": "images/logos/1740-6025Z-1821701-90117966_logo.png",
+        "intitule": "REDON - R C REDONNAIS",
+        "nomClub": "r c redonnais",
+        "ville": "redon",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1900-4613P-1821701-901309C9": {
+        "maillotID": "1900-4613P-1821701-901309C9",
+        "imageMaillot": "images/maillots/1900-4613P-1821701-901309C9_maillot.jpg",
+        "imageLogo": "images/logos/1900-4613P-1821701-901309C9_logo.png",
+        "intitule": "COURBEVOIE - RUGBY CLUB DE COURBEVOIE",
+        "nomClub": "rugby club de courbevoie",
+        "ville": "courbevoie",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1896-6116Y-1821701-9012565B": {
+        "maillotID": "1896-6116Y-1821701-9012565B",
+        "imageMaillot": "images/maillots/1896-6116Y-1821701-9012565B_maillot.jpg",
+        "imageLogo": "images/logos/1896-6116Y-1821701-9012565B_logo.png",
+        "intitule": "MONTESSON - R C MONTESSON",
+        "nomClub": "r c montesson",
+        "ville": "montesson",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 12,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1858-5489S-1821701-90130324": {
+        "maillotID": "1858-5489S-1821701-90130324",
+        "imageMaillot": "images/maillots/1858-5489S-1821701-90130324_maillot.jpg",
+        "imageLogo": "images/logos/1858-5489S-1821701-90130324_logo.png",
+        "intitule": "ARPAJON SUR CERE - R C ARPAJON VEINAZES",
+        "nomClub": "r c arpajon veinazes",
+        "ville": "arpajon sur cere",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1900-4751P-1821701-90128B75": {
+        "maillotID": "1900-4751P-1821701-90128B75",
+        "imageMaillot": "images/maillots/1900-4751P-1821701-90128B75_maillot.jpg",
+        "imageLogo": "images/logos/1900-4751P-1821701-90128B75_logo.png",
+        "intitule": "RUEIL MALMAISON - RUEIL A C",
+        "nomClub": "rueil a c",
+        "ville": "rueil malmaison",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1896-7112F-1821701-90124D20": {
+        "maillotID": "1896-7112F-1821701-90124D20",
+        "imageMaillot": "images/maillots/1896-7112F-1821701-90124D20_maillot.jpg",
+        "imageLogo": "images/logos/1896-7112F-1821701-90124D20_logo.png",
+        "intitule": "TREMBLAY EN FRANCE - TERRES DE FRANCE RUGBY",
+        "nomClub": "terres de france rugby",
+        "ville": "tremblay en france",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1903-5338C-1821701-90124F9B": {
+        "maillotID": "1903-5338C-1821701-90124F9B",
+        "imageMaillot": "images/maillots/1903-5338C-1821701-90124F9B_maillot.jpg",
+        "imageLogo": "images/logos/1903-5338C-1821701-90124F9B_logo.png",
+        "intitule": "MONCLAR DE QUERCY - AVENIR MONCLARAIS",
+        "nomClub": "avenir monclarais",
+        "ville": "monclar de quercy",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 1,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1681-4127L-1821707-90124244": {
+        "maillotID": "1681-4127L-1821707-90124244",
+        "imageMaillot": "images/maillots/1681-4127L-1821707-90124244_maillot.jpg",
+        "imageLogo": "images/logos/1681-4127L-1821707-90124244_logo.png",
+        "intitule": "VERDUN - S A VERDUNOIS",
+        "nomClub": "s a verdunois",
+        "ville": "verdun",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1726-4071A-1821701-903015CD": {
+        "maillotID": "1726-4071A-1821701-903015CD",
+        "imageMaillot": "images/maillots/1726-4071A-1821701-903015CD_maillot.jpg",
+        "imageLogo": "images/logos/1726-4071A-1821701-903015CD_logo.png",
+        "intitule": "ST MARCEL LES VALENCE - ENT CHATEAUNEUF ST MARCEL XV",
+        "nomClub": "ent chateauneuf st marcel xv",
+        "ville": "st marcel les valence",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1910-5137J-1821707-90103D50": {
+        "maillotID": "1910-5137J-1821707-90103D50",
+        "imageMaillot": "images/maillots/1910-5137J-1821707-90103D50_maillot.jpg",
+        "imageLogo": "images/logos/1910-5137J-1821707-90103D50_logo.png",
+        "intitule": "JOUE LES TOURS - U S JOUE",
+        "nomClub": "u s joue",
+        "ville": "joue les tours",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1740-5626R-1821701-9011580E": {
+        "maillotID": "1740-5626R-1821701-9011580E",
+        "imageMaillot": "images/maillots/1740-5626R-1821701-9011580E_maillot.jpg",
+        "imageLogo": "images/logos/1740-5626R-1821701-9011580E_logo.png",
+        "intitule": "BREST - BREST U C",
+        "nomClub": "brest u c",
+        "ville": "brest",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1900-4653H-1821701-90121F6B": {
+        "maillotID": "1900-4653H-1821701-90121F6B",
+        "imageMaillot": "images/maillots/1900-4653H-1821701-90121F6B_maillot.jpg",
+        "imageLogo": "images/logos/1900-4653H-1821701-90121F6B_logo.png",
+        "intitule": "Marcoussis - ENT AS MARCOUSSIS US LIMOURS",
+        "nomClub": "ent as marcoussis us limours",
+        "ville": "marcoussis",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1828-5411G-1821701-8120619E": {
+        "maillotID": "1828-5411G-1821701-8120619E",
+        "imageMaillot": "images/maillots/1828-5411G-1821701-8120619E_maillot.jpg",
+        "imageLogo": "images/logos/1828-5411G-1821701-8120619E_logo.png",
+        "intitule": "VIVIEZ - AVENIR OL VIVIEZ",
+        "nomClub": "avenir ol viviez",
+        "ville": "viviez",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1726-4031G-1821701-902253E4": {
+        "maillotID": "1726-4031G-1821701-902253E4",
+        "imageMaillot": "images/maillots/1726-4031G-1821701-902253E4_maillot.jpg",
+        "imageLogo": "images/logos/1726-4031G-1821701-902253E4_logo.png",
+        "intitule": "GRANE - A S GRANOISE",
+        "nomClub": "a s granoise",
+        "ville": "grane",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1895-5568C-1821705-812030A1": {
+        "maillotID": "1895-5568C-1821705-812030A1",
+        "imageMaillot": "images/maillots/1895-5568C-1821705-812030A1_maillot.jpg",
+        "imageLogo": "images/logos/1895-5568C-1821705-812030A1_logo.png",
+        "intitule": "GENNEVILLIERS - C S M GENNEVILLOIS",
+        "nomClub": "c s m gennevillois",
+        "ville": "gennevilliers",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 24,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "10850-5175A-1821705-902288B7": {
+        "maillotID": "10850-5175A-1821705-902288B7",
+        "imageMaillot": "images/maillots/10850-5175A-1821705-902288B7_maillot.jpg",
+        "imageLogo": "images/logos/10850-5175A-1821705-902288B7_logo.png",
+        "intitule": "DURAS - ASS OL COM COM DE DURAS",
+        "nomClub": "ass ol com com de duras",
+        "ville": "duras",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "10850-5619H-1821701-812051E2": {
+        "maillotID": "10850-5619H-1821701-812051E2",
+        "imageMaillot": "images/maillots/10850-5619H-1821701-812051E2_maillot.jpg",
+        "imageLogo": "images/logos/10850-5619H-1821701-812051E2_logo.png",
+        "intitule": "MONHEURT - UNION RUGBY CONFLUENT MONHEURT AIGUILLON DAMAZAN TONNEINS",
+        "nomClub": "union rugby confluent monheurt aiguillon damazan tonneins",
+        "ville": "monheurt",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "10850-5219Y-1821701-81212C72": {
+        "maillotID": "10850-5219Y-1821701-81212C72",
+        "imageMaillot": "images/maillots/10850-5219Y-1821701-81212C72_maillot.jpg",
+        "imageLogo": "images/logos/10850-5219Y-1821701-81212C72_logo.png",
+        "intitule": "VILLEREAL - U S VILLEREALAISE",
+        "nomClub": "u s villerealaise",
+        "ville": "villereal",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "10850-5204G-1821701-81214D4C": {
+        "maillotID": "10850-5204G-1821701-81214D4C",
+        "imageMaillot": "images/maillots/10850-5204G-1821701-81214D4C_maillot.jpg",
+        "imageLogo": "images/logos/10850-5204G-1821701-81214D4C_logo.png",
+        "intitule": "SAINT LAURENT - U S PORT STE MARIE ST LAURENT",
+        "nomClub": "u s port ste marie st laurent",
+        "ville": "saint laurent",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1740-4359N-1821701-90212697": {
+        "maillotID": "1740-4359N-1821701-90212697",
+        "imageMaillot": "images/maillots/1740-4359N-1821701-90212697_maillot.jpg",
+        "imageLogo": "images/logos/1740-4359N-1821701-90212697_logo.png",
+        "intitule": "LANDIVISIAU - R C LANDIVISIEN",
+        "nomClub": "r c landivisien",
+        "ville": "landivisiau",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    },
+    "1670-6114W-1821701-81218BC6": {
+        "maillotID": "1670-6114W-1821701-81218BC6",
+        "imageMaillot": "images/maillots/1670-6114W-1821701-81218BC6_maillot.jpg",
+        "imageLogo": "images/logos/1670-6114W-1821701-81218BC6_logo.png",
+        "intitule": "LA CHAPELLE SUR ERDRE - XV ERDRE",
+        "nomClub": "xv erdre",
+        "ville": "la chapelle sur erdre",
+        "nbVotes": {
+            "\u00e9l\u00e9gant": 0,
+            "authentique": 0,
+            "cr\u00e9atif": 0
+        }
+    }
+}

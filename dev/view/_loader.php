@@ -1,0 +1,1 @@
+<div id="loader" class="loader"><div class="loader-spinner"><img src="images/loader.gif" alt="" /></div><div class="loader-status"></div></div>
